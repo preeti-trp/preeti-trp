@@ -8,7 +8,8 @@
   - [Sales Person Rankings](https://github.com/preeti-trp/Excel-VBA-Macro-project)
 - <b>Deloitte Australia Data Analytics</b>
   - [Data analytics involving forensic technology](https://github.com/preeti-trp/Tableau) <b><i></b></i>
-
+- <b>Power BI Mobile Sales Dashboard</b>
+  - [Mobile Sales Dashboard Project]( https://github.com/preeti-trp/Power-BI-Project) <b><i></b></i>
 
 
 <h2> 🤳 Connect with me:</h2>

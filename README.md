@@ -4,18 +4,18 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Excel </b>
-  - [Sales Person Rankings](https://github.com/preeti-trp/Excel-VBA-Macro-project)
+- <b>Power BI HR Attrition Analysis</b>
+  - [HR Analytics Dashboard - Attrition Analytics](https://github.com/preeti-trp/Power-BI-Project) <b><i></b></i>
 - <b>Deloitte Australia Data Analytics</b>
   - [Data analytics involving forensic technology](https://github.com/preeti-trp/Tableau) <b><i></b></i>
 - <b>Power BI Mobile Sales Dashboard</b>
   - [Mobile Sales Dashboard Project]( https://github.com/preeti-trp/Power-BI-Project) <b><i></b></i>
-- <b>Power BI HR Attrition Analysis</b>
-  - [HR Analytics Dashboard - Attrition Analytics](https://github.com/preeti-trp/Power-BI-Project) <b><i></b></i>
 - <b>US Traffic Fatalities & Mileage Analysis (2007–2018)</b>
   - [US Traffic Fatalities & Mileage Analysis (2007–2018)](https://github.com/preeti-trp/US-Fatalities-and-mileage-analysis/tree/main) <b><i></b></i>
 - <b>Text Analysis using Python</b>
   - [Text Analysis Using Python]( https://github.com/preeti-trp/Text-Analysis-Using-Python) <b><i></b></i>
+- <b>Excel </b>
+  - [Sales Person Rankings](https://github.com/preeti-trp/Excel-VBA-Macro-project)
 
 
 <h2> 🤳 Connect with me:</h2>

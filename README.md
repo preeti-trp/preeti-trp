@@ -5,7 +5,7 @@
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
 - <b>Power BI HR Attrition Analysis</b>
-  - [HR Analytics Dashboard - Attrition Analytics](https://github.com/preeti-trp/Power-BI-Project) <b><i></b></i>
+  - [HR Analytics Dashboard - Attrition Analytics](https://github.com/preeti-trp/HR-Analytics-Attrition-PowerBI) <b><i></b></i>
 - <b>Deloitte Australia Data Analytics</b>
   - [Data analytics involving forensic technology](https://github.com/preeti-trp/Tableau) <b><i></b></i>
 - <b>Power BI Mobile Sales Dashboard</b>
